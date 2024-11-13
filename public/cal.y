@@ -36,7 +36,7 @@ void yyerror(char* errorText){
 /* terminal
 flex cal.l
 bison cal.y
-gcc y.tab.c -lfl
+gcc cal.tab.c -lfl
 ./a.out
 */
 

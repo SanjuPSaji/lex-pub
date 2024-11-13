@@ -98,7 +98,7 @@ void yyerror(char* errorText){
 /* terminal
 flex ic-generator.l
 bison ic-generator.y
-gcc ic.tab.c -lfl
+gcc ic-generator.tab.c -lfl
 ./a.out
 */
 
