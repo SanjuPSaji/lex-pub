@@ -60,3 +60,7 @@ lex decimal-to-binary.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+/*input.txt
+3 12 21 16 18 21
+*/

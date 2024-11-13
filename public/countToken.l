@@ -55,3 +55,9 @@ lex countToken.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+/*input.txt
+hello My NAme is VaibhaBhiu
+// hello this is comment
+    if then else while
+*/

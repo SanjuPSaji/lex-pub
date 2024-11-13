@@ -53,3 +53,8 @@ lex hexa-to-deci.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+
+/*input.txt
+4A 3 1 AA
+*/

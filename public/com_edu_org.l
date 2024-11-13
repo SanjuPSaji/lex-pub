@@ -50,3 +50,11 @@ lex com_edu_org.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+/*input.txt
+fu.com
+siu.org
+siu.edu
+deca.com
+deca.cu
+*/

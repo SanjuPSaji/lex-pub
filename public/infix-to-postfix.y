@@ -37,6 +37,6 @@ gcc lex.yy.c y.tab.c -o infix-to-postfix
 ./infix-to-postfix
 */
 
-/*
+/* input
 (3+6)
 */

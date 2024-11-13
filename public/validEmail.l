@@ -27,7 +27,7 @@ gcc lex.yy.c -lfl
 ./a.out
 */
 
-/*
+/* input
 a@gmail.com
 i.kedaarnath
 */

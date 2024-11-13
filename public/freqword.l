@@ -43,3 +43,7 @@ lex freqword.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+/*input.txt
+geeks for geeks is my fav site
+*/

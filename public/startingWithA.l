@@ -32,3 +32,7 @@ lex startingWithA.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+/*input.txt
+An apple a day is good amaericA ALOKA 
+*/

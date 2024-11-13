@@ -64,6 +64,6 @@ gcc postfix-evaluation.tab.c -lfl
 ./a.out
 */
 
-/*
+/* input
 7*(5-3)/2
 */

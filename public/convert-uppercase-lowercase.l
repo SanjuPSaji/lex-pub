@@ -31,3 +31,8 @@ lex convert-uppercase-lowercase.l
 gcc lex.yy.c
 ./a.out input.txt
 */
+
+
+/*input.txt
+hello My NAme is VaibhaBhiu
+*/
